@@ -5,6 +5,7 @@ Clone the repository
 
 Activate the virtual environment
 < myenv\scripts\activate >
+
 Install all requirements
 < pip install -r requirements.txt >
 
